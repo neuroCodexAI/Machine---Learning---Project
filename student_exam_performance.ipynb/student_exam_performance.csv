@@ -1,0 +1,201 @@
+student_id,gender,study_hours,class_participation,attendance_rate,previous_scores,parental_education,internet_access,passed
+S1000,Male,0.4,9,95.4,64.0,Bachelor,No,Yes
+S1001,Male,8.0,9,68.8,85.6,High School,No,Yes
+S1002,Female,6.7,10,97.1,42.2,High School,Yes,Yes
+S1003,Male,7.8,5,59.9,45.3,High School,No,Yes
+S1004,Male,7.4,7,79.6,55.1,Master,No,Yes
+S1005,Male,6.8,7,91.5,47.0,Master,No,Yes
+S1006,Male,1.3,7,62.1,86.4,Master,No,No
+S1007,Male,3.9,10,84.9,91.9,Bachelor,No,Yes
+S1008,Female,1.7,3,65.1,89.5,Master,Yes,No
+S1009,Male,3.2,8,84.2,40.1,Bachelor,No,Yes
+S1010,Male,0.5,7,90.3,92.2,High School,No,Yes
+S1011,Male,3.0,2,89.8,67.7,Bachelor,No,No
+S1012,Male,7.9,10,78.3,43.3,High School,No,Yes
+S1013,Male,2.1,1,52.1,71.1,Bachelor,No,No
+S1014,Male,6.3,4,76.6,77.4,Master,Yes,Yes
+S1015,Male,3.6,8,83.1,69.9,High School,No,Yes
+S1016,Female,3.4,10,53.4,66.5,Bachelor,Yes,Yes
+S1017,Male,7.7,10,82.4,43.1,Bachelor,Yes,Yes
+S1018,Female,8.0,9,50.6,56.0,Master,Yes,Yes
+S1019,Female,4.4,5,71.0,47.9,Master,Yes,Yes
+S1020,Male,5.7,1,74.5,57.3,Master,No,Yes
+S1021,Male,1.2,3,71.7,92.9,Bachelor,Yes,No
+S1022,Female,2.4,10,68.1,69.1,Master,No,Yes
+S1023,Female,7.7,4,94.6,41.7,Bachelor,Yes,Yes
+S1024,Female,4.6,3,73.0,77.8,Master,Yes,Yes
+S1025,Male,4.3,3,57.6,88.0,Bachelor,No,Yes
+S1026,Male,6.0,2,58.8,82.6,High School,Yes,Yes
+S1027,Female,0.5,0,76.1,58.6,Master,No,No
+S1028,Male,4.7,0,82.5,40.8,High School,No,No
+S1029,Male,4.0,3,80.8,64.5,Bachelor,No,Yes
+S1030,Female,6.8,7,96.0,53.5,High School,Yes,Yes
+S1031,Male,1.3,9,88.7,90.5,Master,No,Yes
+S1032,Female,7.7,1,73.2,46.8,Master,No,Yes
+S1033,Female,0.6,7,91.3,96.8,Bachelor,No,Yes
+S1034,Female,1.5,6,79.6,78.9,Master,Yes,No
+S1035,Male,4.8,10,66.1,49.2,High School,Yes,Yes
+S1036,Female,5.4,9,62.3,96.0,Master,Yes,Yes
+S1037,Male,1.9,3,96.7,57.5,High School,No,No
+S1038,Female,1.0,6,63.9,82.3,Master,Yes,No
+S1039,Male,7.1,7,72.5,64.9,Bachelor,Yes,Yes
+S1040,Female,2.0,6,87.5,68.9,Master,No,Yes
+S1041,Female,4.8,3,78.5,68.3,Bachelor,No,Yes
+S1042,Male,5.0,2,83.4,67.4,Master,Yes,Yes
+S1043,Male,3.4,10,66.8,48.7,Bachelor,No,Yes
+S1044,Male,4.7,0,74.7,51.4,High School,Yes,No
+S1045,Male,4.2,1,66.3,76.0,High School,No,No
+S1046,Female,7.5,6,74.4,84.8,High School,Yes,Yes
+S1047,Male,1.6,3,67.7,48.2,High School,No,No
+S1048,Male,5.7,2,62.9,44.2,Bachelor,Yes,No
+S1049,Male,1.9,8,64.0,86.4,Bachelor,Yes,Yes
+S1050,Female,3.2,7,79.8,91.3,High School,No,Yes
+S1051,Female,5.4,0,94.0,60.4,High School,No,Yes
+S1052,Female,2.4,8,77.8,87.3,High School,No,Yes
+S1053,Female,2.5,3,75.8,56.0,Master,No,No
+S1054,Male,6.0,1,59.6,40.2,High School,Yes,No
+S1055,Female,0.6,7,62.1,83.6,Bachelor,Yes,No
+S1056,Female,3.7,2,70.3,90.2,Bachelor,Yes,Yes
+S1057,Male,8.0,7,77.8,74.8,Bachelor,No,Yes
+S1058,Female,8.0,10,62.0,79.6,Master,Yes,Yes
+S1059,Male,0.6,8,73.8,91.9,Master,Yes,Yes
+S1060,Male,1.7,8,85.6,66.8,Master,Yes,Yes
+S1061,Male,2.1,9,72.4,69.1,Master,Yes,Yes
+S1062,Male,7.5,5,50.9,59.9,Bachelor,Yes,Yes
+S1063,Female,7.0,7,64.7,85.8,Master,No,Yes
+S1064,Female,7.0,9,70.2,62.6,Master,No,Yes
+S1065,Female,3.0,8,62.2,96.0,Master,No,Yes
+S1066,Male,1.3,6,83.2,92.2,High School,No,Yes
+S1067,Female,6.7,8,68.5,98.8,Bachelor,Yes,Yes
+S1068,Male,5.6,7,77.7,54.3,Master,No,Yes
+S1069,Male,4.9,2,67.2,63.0,High School,No,No
+S1070,Male,7.9,7,99.8,91.4,Bachelor,No,Yes
+S1071,Female,5.2,7,77.5,64.6,Master,Yes,Yes
+S1072,Female,0.1,4,67.6,59.1,Bachelor,Yes,No
+S1073,Female,6.5,3,72.7,68.4,Bachelor,Yes,Yes
+S1074,Male,2.4,10,65.3,94.8,High School,Yes,Yes
+S1075,Male,5.3,4,61.5,62.9,Master,Yes,Yes
+S1076,Female,7.5,8,86.1,99.3,Bachelor,Yes,Yes
+S1077,Male,1.1,7,65.8,87.5,High School,No,No
+S1078,Female,0.9,10,87.1,79.1,Bachelor,No,Yes
+S1079,Female,0.9,3,97.5,49.1,Bachelor,No,No
+S1080,Female,4.4,4,84.5,97.9,High School,No,Yes
+S1081,Male,2.2,7,59.6,47.6,Bachelor,No,No
+S1082,Female,4.8,1,86.9,97.9,High School,No,Yes
+S1083,Male,5.7,4,63.8,59.9,Master,No,Yes
+S1084,Male,1.6,3,79.5,46.0,Bachelor,Yes,No
+S1085,Female,5.1,4,88.0,90.7,Master,Yes,Yes
+S1086,Female,2.1,5,79.8,46.0,Master,No,No
+S1087,Female,3.9,5,99.0,94.6,Bachelor,No,Yes
+S1088,Female,7.2,8,91.6,40.9,High School,Yes,Yes
+S1089,Male,6.8,1,64.8,48.6,Bachelor,No,Yes
+S1090,Male,0.7,2,68.0,92.3,Bachelor,No,No
+S1091,Female,3.4,2,65.1,98.2,High School,No,Yes
+S1092,Male,2.2,3,85.4,44.5,High School,Yes,No
+S1093,Male,0.0,6,56.3,86.9,Bachelor,Yes,No
+S1094,Male,6.2,2,52.3,55.9,High School,No,Yes
+S1095,Male,5.1,3,52.7,77.4,Master,Yes,Yes
+S1096,Male,2.1,1,64.6,63.8,High School,Yes,No
+S1097,Female,5.9,6,97.2,44.8,Master,Yes,Yes
+S1098,Male,4.4,6,81.9,59.7,Master,No,Yes
+S1099,Female,3.4,5,87.6,80.5,Master,Yes,Yes
+S1100,Female,0.1,8,55.1,72.0,High School,Yes,No
+S1101,Female,0.6,7,50.6,97.2,High School,No,No
+S1102,Female,7.1,6,64.2,77.6,Bachelor,No,Yes
+S1103,Male,7.2,0,73.9,93.2,High School,No,Yes
+S1104,Male,4.4,3,67.0,69.3,High School,Yes,Yes
+S1105,Female,6.7,6,98.3,72.5,Master,Yes,Yes
+S1106,Female,4.7,6,62.6,77.0,High School,No,Yes
+S1107,Male,1.2,9,93.1,54.1,High School,No,Yes
+S1108,Female,1.0,0,55.7,81.1,Master,Yes,No
+S1109,Female,2.5,9,53.3,57.2,High School,Yes,Yes
+S1110,Male,7.2,6,74.6,53.6,Master,No,Yes
+S1111,Female,6.4,7,78.9,45.4,High School,Yes,Yes
+S1112,Male,6.9,0,84.3,98.7,High School,No,Yes
+S1113,Female,7.2,5,57.6,85.6,Bachelor,Yes,Yes
+S1114,Male,1.7,4,90.6,82.2,High School,No,No
+S1115,Male,2.0,6,97.5,46.0,Master,Yes,No
+S1116,Female,0.8,6,54.3,50.0,High School,No,No
+S1117,Male,6.2,8,62.4,58.0,Bachelor,Yes,Yes
+S1118,Male,7.1,8,77.9,41.7,High School,No,Yes
+S1119,Female,3.3,9,70.8,59.5,High School,Yes,Yes
+S1120,Male,5.0,3,79.8,43.4,Master,No,Yes
+S1121,Male,1.2,7,80.9,61.5,Bachelor,No,No
+S1122,Female,7.4,3,88.8,65.8,High School,No,Yes
+S1123,Female,6.9,4,69.0,54.7,High School,No,Yes
+S1124,Male,7.8,6,95.4,64.7,Master,No,Yes
+S1125,Male,6.5,7,64.9,80.9,High School,Yes,Yes
+S1126,Female,7.1,0,79.4,50.8,High School,No,Yes
+S1127,Female,0.2,6,71.4,50.5,High School,Yes,No
+S1128,Male,5.9,5,78.4,76.6,Bachelor,No,Yes
+S1129,Male,2.7,10,53.0,63.0,High School,Yes,Yes
+S1130,Male,7.4,10,98.0,81.0,Master,No,Yes
+S1131,Male,6.4,6,55.0,69.9,Bachelor,No,Yes
+S1132,Male,6.9,2,88.1,75.0,High School,Yes,Yes
+S1133,Female,6.5,7,81.3,53.9,High School,No,Yes
+S1134,Male,2.1,2,63.2,78.3,Bachelor,Yes,No
+S1135,Male,6.3,9,54.1,67.6,High School,Yes,Yes
+S1136,Male,0.9,8,62.0,80.0,High School,No,No
+S1137,Female,7.0,0,77.6,93.9,Master,No,Yes
+S1138,Male,6.9,6,57.8,67.9,Bachelor,Yes,Yes
+S1139,Female,1.8,9,70.4,57.3,Master,No,Yes
+S1140,Female,6.5,9,84.5,72.8,High School,No,Yes
+S1141,Male,3.7,10,73.5,44.4,Master,No,Yes
+S1142,Male,2.4,0,51.6,96.7,High School,Yes,No
+S1143,Female,6.4,1,64.4,99.3,Bachelor,No,Yes
+S1144,Female,1.8,10,64.1,57.9,Bachelor,Yes,Yes
+S1145,Female,0.2,6,93.0,97.7,Bachelor,Yes,Yes
+S1146,Female,1.5,2,53.6,81.4,Master,Yes,No
+S1147,Female,2.6,7,61.7,67.4,Master,Yes,Yes
+S1148,Male,6.9,2,63.2,58.1,High School,No,Yes
+S1149,Male,7.7,0,89.6,100.0,Bachelor,No,Yes
+S1150,Male,2.2,4,79.5,91.2,Master,Yes,Yes
+S1151,Male,5.1,6,90.2,46.4,High School,Yes,Yes
+S1152,Female,3.2,5,59.9,62.9,Master,Yes,No
+S1153,Male,7.8,3,55.7,61.5,High School,Yes,Yes
+S1154,Male,4.3,7,61.2,57.8,Master,No,Yes
+S1155,Male,7.5,5,57.4,82.0,Master,Yes,Yes
+S1156,Male,0.9,5,63.3,41.3,Master,Yes,No
+S1157,Male,7.8,6,57.1,89.8,Bachelor,Yes,Yes
+S1158,Male,1.4,4,53.0,63.7,Bachelor,Yes,No
+S1159,Male,7.7,6,89.6,40.5,Master,Yes,Yes
+S1160,Male,2.1,4,79.8,91.9,High School,No,Yes
+S1161,Male,0.9,1,91.2,86.7,High School,No,No
+S1162,Female,3.5,7,96.1,98.4,Bachelor,No,Yes
+S1163,Male,5.8,0,72.0,94.6,Bachelor,No,Yes
+S1164,Male,2.5,8,73.4,84.7,Bachelor,No,Yes
+S1165,Female,4.8,0,65.2,90.0,Master,Yes,Yes
+S1166,Female,4.1,5,70.1,94.2,High School,No,Yes
+S1167,Male,3.1,3,63.6,86.5,Bachelor,Yes,No
+S1168,Male,4.6,10,77.0,53.8,Master,No,Yes
+S1169,Female,2.0,1,71.9,88.1,Bachelor,No,No
+S1170,Male,5.7,10,79.9,53.1,High School,No,Yes
+S1171,Female,0.0,0,94.5,51.4,High School,No,No
+S1172,Female,7.4,0,86.7,55.0,Bachelor,Yes,Yes
+S1173,Male,4.3,3,80.2,85.3,Master,No,Yes
+S1174,Male,5.8,3,51.3,86.0,High School,Yes,Yes
+S1175,Male,5.9,0,61.4,80.9,High School,No,Yes
+S1176,Female,5.4,9,83.7,48.2,High School,No,Yes
+S1177,Female,2.9,2,93.0,45.8,Bachelor,No,No
+S1178,Female,0.6,3,79.4,77.6,Master,Yes,No
+S1179,Female,5.3,2,51.0,42.4,Master,Yes,No
+S1180,Female,2.6,7,88.2,87.3,Master,No,Yes
+S1181,Male,2.5,10,91.1,42.0,Master,No,Yes
+S1182,Male,6.8,1,78.8,61.9,Master,Yes,Yes
+S1183,Male,5.8,9,88.2,47.9,Bachelor,Yes,Yes
+S1184,Female,2.4,3,58.8,94.6,Bachelor,No,No
+S1185,Female,2.5,7,75.9,59.6,Master,No,Yes
+S1186,Male,3.3,4,72.1,64.9,Master,Yes,No
+S1187,Male,3.2,5,63.9,52.0,Bachelor,No,No
+S1188,Male,2.4,2,99.8,87.2,Bachelor,Yes,Yes
+S1189,Male,1.0,9,71.8,92.6,Master,No,Yes
+S1190,Female,3.4,9,90.7,62.0,Master,No,Yes
+S1191,Male,7.5,1,98.5,70.1,Bachelor,Yes,Yes
+S1192,Female,5.4,2,73.5,56.4,High School,Yes,Yes
+S1193,Male,7.2,4,70.4,49.9,Master,No,Yes
+S1194,Female,4.9,1,66.1,94.8,High School,Yes,Yes
+S1195,Female,2.4,9,55.2,96.7,Master,No,Yes
+S1196,Male,4.4,0,58.0,98.0,Master,Yes,No
+S1197,Male,0.0,4,70.6,57.7,Master,Yes,No
+S1198,Female,2.3,9,74.8,92.2,Master,Yes,Yes
+S1199,Male,3.4,10,83.1,88.3,High School,Yes,Yes
